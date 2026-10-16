@@ -42,6 +42,16 @@ The scenario skills are the prompt plus a mapping: what each section means for t
 - Put an open question in the earliest section where the reader can see why it matters.
 - Use the subject's own terms.
 
+## Lineage
+
+The order is new; the idea isn't. It rediscovers older answers to the same problem:
+
+- **Advance organizers.** A general frame before the details, at a higher level than a summary. The ELI5. Ausubel, D. P. (1960). The use of advance organizers in the learning and retention of meaningful verbal material. *Journal of Educational Psychology*, 51, 267–272.
+- **Spiral curriculum.** Teach an honest simple version first, then return in more depth. Bruner, J. S. (1960). *The Process of Education*. Harvard University Press.
+- **Elaboration theory.** Start with an epitome, then zoom in. Reigeluth, C. M. (1979). In search of a better way to organize instruction: The elaboration theory. *Journal of Instructional Development*, 2(3), 8–15.
+- **Answer first.** Minto, B. *The Pyramid Principle: Logic in Writing and Thinking*; the U.S. Army's BLUF, "bottom line up front" (AR 25-50, *Preparing and Managing Correspondence*); the newspaper inverted pyramid (Pöttker, H. (2003). News and its communicative quality: The inverted pyramid—when and why did it appear? *Journalism Studies*, 4(4), 501–511).
+- **Progressive disclosure.** Defer detail to a later layer. Carroll, J. M., & Carrithers, C. (1984). Training wheels in a user interface. *Communications of the ACM*, 27(8), 800–806.
+
 ## License
 
 MIT
