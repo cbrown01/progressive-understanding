@@ -6,6 +6,8 @@ The order: **Idea → ELI5 → TLDR → Visual → You Should Know → This, Not
 
 The full prompt is in [`prompt.md`](prompt.md). Paste it into any chat or system prompt as is. It also ships as a skill, alongside skills that apply it to specific situations.
 
+New here? [`OVERVIEW.md`](OVERVIEW.md) explains this repo in the same format.
+
 ## Install
 
 Skills install with the [`skills` CLI](https://www.skills.sh/):
